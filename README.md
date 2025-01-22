@@ -1,4 +1,4 @@
-# README
+# Go + HTMX User Management
 
 ## Project Description
 
